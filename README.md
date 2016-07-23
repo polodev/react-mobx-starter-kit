@@ -34,6 +34,22 @@ npm run compile
 
 ```
 this npm command will prepare the production dist. Just deploy the dist folder thats it. This command also copied all static file
+#####for test dis folder
+```
+cd dist
+```
+python 2.*
+```
+python -m SimpleHTTPServer
+```
+
+python 3.*
+```
+python -m http.server
+```
+Now go to
+
+
 
 
 ### Dependencies
