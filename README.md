@@ -19,7 +19,7 @@ open http://localhost:7000
 
 ## How to Start
 ####There are Two folder inside starter kit. src and dist.
-![File Tree](https://raw.githubusercontent.com/polodev/react-simple-starter-kit/master/folder_structure.jpg  "File Tree")
+![File Tree](https://raw.githubusercontent.com/polodev/react-mobx-starter-kit/master/folder_structure.png  "File Tree")
 
 1. Make a view file inside src/views/
 2. export the view file through src/views/index.js
