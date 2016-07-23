@@ -47,7 +47,7 @@ python 3.*
 ```
 python -m http.server
 ```
-Now go to
+Now go to http://localhost:8000
 
 
 
