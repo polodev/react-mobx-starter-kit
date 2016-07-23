@@ -1,7 +1,7 @@
 {
-  "name": "react-simple-starter-kit",
+  "name": "react-mobx-starter-kit",
   "version": "1.0.0",
-  "description": "starter kit for react , es6, less",
+  "description": "starter kit for react , es6, less, sass, mobx",
   "main": "dist/bundle.js",
   "scripts": {
     "compile": "webpack",
@@ -9,27 +9,29 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/polodev/react-simple-starter-kit.git"
+    "url": "git+https://github.com/polodev/react-mobx-starter-kit.git"
   },
   "keywords": [
     "react",
     "es6",
-    "less"
+    "less",
+    "sass",
+    "mobx",
+    "mobx-react"
   ],
   "author": "shibu deb polo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/polodev/react-simple-starter-kit/issues"
+    "url": "https://github.com/polodev/react-mobx-starter-kit/issues"
   },
-  "homepage": "https://github.com/polodev/react-simple-starter-kit#readme",
+  "homepage": "https://github.com/polodev/react-mobx-starter-kit#readme",
   "dependencies": {
     "mobx": "^2.4.0",
     "mobx-react": "^3.5.1",
     "node-sass": "^3.8.0",
     "react": "^15.1.0",
     "react-dom": "^15.1.0",
-    "react-router": "^2.5.2",
-    "sass-loader": "^4.0.0"
+    "react-router": "^2.5.2"
   },
   "devDependencies": {
     "babel-core": "^6.9.1",
@@ -49,6 +51,7 @@
     "style-loader": "^0.13.1",
     "webpack": "^1.13.1",
     "webpack-dev-middleware": "^1.6.1",
-    "webpack-hot-middleware": "^2.10.0"
+    "webpack-hot-middleware": "^2.10.0",
+    "sass-loader": "^4.0.0"
   }
 }
